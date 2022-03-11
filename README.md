@@ -1,3 +1,3 @@
 # 2D_Gaussian_Quadrature
-
+數值分析作業3
 numerical_analysisHW3
